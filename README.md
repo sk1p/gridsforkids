@@ -1,15 +1,15 @@
 # Grids for kids
 
-An illustrative sample that shows simple usage of Wax and Mapnik's grid_renderer output.
+An illustrative sample that shows simple usage of Wax and Mapnik's grid\_renderer output.
 
 
 ## Background
 
-  The grid_renderer targets the mbtiles spec. Learn more here:
+  The grid\_renderer targets the mbtiles spec. Learn more here:
   
     https://github.com/mapbox/mbtiles-spec/
   
-  For more about the grid_renderer:
+  For more about the grid\_renderer:
   
     http://trac.mapnik.org/wiki/MapnikRenderers#grid_renderer
 
@@ -18,9 +18,9 @@ An illustrative sample that shows simple usage of Wax and Mapnik's grid_renderer
   
   Mapnik trunk >= r 2842
   
-  subversion (to checkout generate_tiles.py)
+  subversion (to checkout generate\_tiles.py)
   
-  patch (to patch generate_tiles.py)
+  patch (to patch generate\_tiles.py)
   
   python >= 2.6 (for built in json module)
   
